@@ -13,5 +13,5 @@ VisionAgentObjectDetection is a sandbox for testing and fine-tuning object detec
 ## Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/VisionAgentObjectDetection.git
+   git clone https://github.com/dheerajreddy2020/VisionAgentObjectDetection.git
    cd VisionAgentObjectDetection
